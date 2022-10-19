@@ -59,7 +59,7 @@ bearing: 0.00
             onChapterEnter: [
                 {
                   layer: 'form-morelos-adrog0',
-                  opacity: 0.75  
+                  opacity: 0.65  
                 }
             ],
             onChapterExit: [
@@ -75,7 +75,7 @@ bearing: 0.00
             hidden: false,
         //    title: 'La sierra del Tepozteco',
         //    image: './images/subduccion.png',
-            description: '<font size="+0.5">Mucho tiempo después, cuando el mar de Niobarara llevaba seco ya más de ochenta millones de años, una era volcánica comenzó en el centro de México.</font>',
+            description: '<font size="+0.5">Mucho tiempo después, cuando el mar de Niobrara llevaba seco ya más de ochenta millones de años, una era volcánica comenzó en el centro de México.</font>',
             location: {
                 center: [-99.07817, 18.95997],
 zoom: 11.67,
@@ -88,7 +88,7 @@ bearing: 0.00
             onChapterEnter: [
             //    {
             //        layer: 'form-tepoz-mapbox-5df4g6',
-            //        opacity: 0.75
+            //        opacity: 0.65
             //    }
                 
             ],
@@ -106,7 +106,7 @@ bearing: 0.00
             hidden: false,
         //    title: 'La sierra del Tepozteco',
             image: './images/cocos.png',
-            description: '<p><font size="+0.5">A un ritmo de casi 7 mm por año, la placa tectónica de Cocos, en el oceano Pacífico, comenzó a incrustarse debajo de la placa de Norteamérica (un proceso llamado <a href = "https://es.wikipedia.org/wiki/Subducci%C3%B3n"> subducción</a> ).</font></p> <p><font size="-2">Imagen modificada de <a href="https://commons.wikimedia.org/wiki/File:Cocos_Plate_map-fr.png"> Sting y Réhmi</a>, <a href="https://creativecommons.org/licenses/by-sa/2.5/deed.en"> CC BY-SA 2.5</a>.</font></p>',
+            description: '<p><font size="+0.5">A un ritmo de casi 7 mm por año, la placa tectónica de Cocos, al sur de México en el oceano Pacífico, comenzó a incrustarse debajo de la placa de Norteamérica (un proceso llamado <a href = "https://es.wikipedia.org/wiki/Subducci%C3%B3n"> subducción</a> ).</font></p> <p><font size="-2">Imagen modificada de <a href="https://commons.wikimedia.org/wiki/File:Cocos_Plate_map-fr.png"> Sting y Réhmi</a>, <a href="https://creativecommons.org/licenses/by-sa/2.5/deed.en"> CC BY-SA 2.5</a>.</font></p>',
             location: {
                 center: [-99.07817, 18.95997],
 zoom: 11.67,
@@ -119,7 +119,7 @@ bearing: 0.00
             onChapterEnter: [
             //    {
             //        layer: 'form-tepoz-mapbox-5df4g6',
-            //        opacity: 0.75
+            //        opacity: 0.65
             //    }
                 
             ],
@@ -137,7 +137,7 @@ bearing: 0.00
             hidden: false,
             title: '',
             image: './images/subduccion.png',
-            description: '<p><font size="+0.5">Al hundirse poco a poco en las profundidades incandescentes de la Tierra, llegó un punto en el que algunas rocas de la placa de Cocos se calentaron tanto que empezaron a derretirse. Y como las rocas derretidas son menos densas que las otras rocas alrededor, flotaron hacia la superficie.</p><p>De este modo nacen volcanes a lo largo de zonas de subducción, normalmente entre 100 y 200 km de la fosa oceánica donde una placa se hunde debajo de la otra. Pero la placa de Cocos es diferente.</font></p> <p><font size="-2">Imagen original: "Subduction_es.svg" de Wikimedia Commons por <a href="https://commons.wikimedia.org/wiki/File:Cocos_Plate_map-fr.png"> K.D. Schroeder</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> CC BY-SA 4.0</a>.</font></p>',
+            description: '<p><font size="+0.5">Al hundirse poco a poco en las profundidades incandescentes de la Tierra, la placa de Cocos se fue calentando. Llegó un punto en que algunas rocas de la placa de Cocos empezaron a derretirse y, al ser menos densas que las otras rocas alrededor, flotar hacia la superficie. Estas rocas derretidas, llamadas magma, forman volcanes cuando emergen en la superficie terrestre. Por eso los volcanes son tan comunes a lo largo de zonas de subducción, normalmente entre 100 y 200 km de la fosa oceánica en donde una placa se hunde debajo de la otra. Pero la placa de Cocos es diferente.</font></p> <p><font size="-2">Imagen original: "Subduction_es.svg" de Wikimedia Commons por <a href="https://commons.wikimedia.org/wiki/File:Cocos_Plate_map-fr.png"> K.D. Schroeder</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> CC BY-SA 4.0</a>.</font></p>',
             location: {
                 center: [-99.07817, 18.95997],
 zoom: 11.67,
@@ -150,7 +150,7 @@ bearing: 0.00
             onChapterEnter: [
             //    {
             //        layer: 'form-tepoz-mapbox-5df4g6',
-            //        opacity: 0.75
+            //        opacity: 0.65
             //    }
                 
             ],
@@ -168,7 +168,7 @@ bearing: 0.00
             hidden: false,
             title: '',
             image: './images/cocos_subduction.png',
-            description: '<p><font size="+0.5">En vez de hundirse cerca de la fosa oceánica como otras placas tectónicas, la placa de Cocos se deslizó debajo de la placa de Norteamérica por unos 250 km de manera casi horizontal, sin hundirse más de 50 km. Entonces, justo debajo de lo que ahora es Tepoztlán, la placa de Cocos se dobló abruptamente y empezó a hundirse lo suficiente para que sus rocas se derretieran y empezaran a producir volcanes.</font></p><p><font size="-2">Esquema basado en la figura 3 de <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2008GL035127"> Pérez-Campos et al. 2008</a>.</font></p>',
+            description: '<p><font size="+0.5">En vez de hundirse cerca de la fosa oceánica como otras placas tectónicas, la placa de Cocos se deslizó debajo de la placa de Norteamérica por unos 250 km de manera casi horizontal, sin hundirse más de 50 km. Entonces, justo debajo de lo que ahora es Tepoztlán, la placa de Cocos se dobló abruptamente y empezó a hundirse lo suficiente para que sus rocas se derretieran y empezaran a producir volcanes. Es por esta peculiaridad de la placa de Cocos que hay tantos volcanes alrededor de Tepoztlán y de la ciudad de México. De otro modo todos los volcanes estarían más cerca de la costa.</font></p><p><font size="-2">Esquema basado en la figura 3 de <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2008GL035127"> Pérez-Campos et al. 2008</a>.</font></p>',
             location: {
                 center: [-99.07817, 18.95997],
 zoom: 11.67,
@@ -181,7 +181,7 @@ bearing: 0.00
             onChapterEnter: [
             //    {
             //        layer: 'form-tepoz-mapbox-5df4g6',
-            //        opacity: 0.75
+            //        opacity: 0.65
             //    }
                 
             ],
@@ -212,7 +212,7 @@ bearing: 0.00
             onChapterEnter: [
             //    {
             //        layer: 'form-tepoz-mapbox-5df4g6',
-            //        opacity: 0.75
+            //        opacity: 0.65
             //    }
                 
             ],
@@ -243,7 +243,7 @@ bearing: -13.80
             onChapterEnter: [
                 {
                     layer: 'form-tepoz-mapbox-5df4g6',
-                    opacity: 0.75
+                    opacity: 0.65
                 }
                 
             ],
@@ -274,7 +274,7 @@ bearing: 0.00
             onChapterEnter: [
                 {
                     layer: 'form-tepoz-mapbox-5df4g6',
-                    opacity: 0.75
+                    opacity: 0.65
                 }
                 
             ],
@@ -305,7 +305,7 @@ bearing: 0.00
             onChapterEnter: [
                 {
                     layer: 'form-tepoz-mapbox-5df4g6',
-                    opacity: 0.75
+                    opacity: 0.65
                 }
                 
             ],
@@ -354,7 +354,7 @@ bearing: 0.00
             hidden: false,
             title: 'Hace unos 986 mil años',
             // image: './images/Tepoz_Mioceno_Paleoambiente.png',
-            description: '<p><font size="+0.25">Hace un millón de años, un simple parpadeo en tiempo geológico, la fauna del mundo era aún más diversa y asombrosa que ahora. Había muchos más animales grandes en todos los continentes. Por ejemplo, en México había mamuts, mastodontes, armadillos, perezosos y lobos gigantes, leones y tigres dientes de sable, entre muchos otros. Todavía no existían los humanos modernos, pero nuestros ancestros los <em>Homo erectus</em> vivían en Asia y en África.</font></p><p><font size="+0.25">Así estaban las cosas cuando un volcán al sur de Tepoztlán, hoy llamado "Las Tetillas", hizo erupción.</font></p> ',
+            description: '<p><font size="+0.25">Hace un millón de años, un simple parpadeo en tiempo geológico, la fauna del mundo era aún más diversa y asombrosa que ahora. Había muchos más animales grandes en todos los continentes. Por ejemplo, en México había mamuts, mastodontes, armadillos, perezosos y lobos gigantes, leones y tigres dientes de sable, entre muchos otros. Todavía no existían los humanos modernos, pero nuestros ancestros los <em>Homo erectus</em> vivían en Asia y en África.</font></p><p><font size="+0.25">Así estaban las cosas cuando un volcán al sur de Tepoztlán, hoy llamado "Las Tetillas", hizo erupción. Hoy la ciudad de Yautepec se extiende sobre la lava de Las Tetillas.</font></p> ',
             location: {
                 center: { lon: -99.11316, lat: 18.91104 },
 zoom: 9.80,
@@ -367,14 +367,14 @@ bearing: 0.00
             onChapterEnter: [
                 {
                     layer: 'derrame-tetillas-3a23io',
-                    opacity: 0.95
+                    opacity: 0.8
                 }
                 
             ],
             onChapterExit: [
                 {
                     layer: 'derrame-tetillas-3a23io',
-                    opacity: 0.75
+                    opacity: 0.65
                 }
                 
             ]
@@ -385,7 +385,7 @@ bearing: 0.00
             hidden: false,
             title: 'Hace unos 181 mil años',
             // image: './images/Tepoz_Mioceno_Paleoambiente.png',
-            description: '<p><font size="+0.25">Ya había humanos modernos en lo que hoy es Etiopía. Al norte de Tepoztlán, el volcán Quepil hizo erupción.</font></p> ',
+            description: '<p><font size="+0.25">Ya había humanos modernos en lo que hoy es Etiopía. Al norte de Tepoztlán, el volcán Quepil hizo erupción cerca de Jaras Verdes.</font></p> ',
             location: {
                 center: { lon: -99.00773, lat: 19.03933 },
 zoom: 10.57,
@@ -398,14 +398,14 @@ bearing: -15.00
             onChapterEnter: [
                 {
                     layer: 'derrame-quepil-4a56qg',
-                    opacity: 0.95
+                    opacity: 0.8
                 }
                 
             ],
             onChapterExit: [
                 {
                     layer: 'derrame-quepil-4a56qg',
-                    opacity: 0.75
+                    opacity: 0.65
                 }
                 
             ]
@@ -416,7 +416,7 @@ bearing: -15.00
             hidden: false,
             title: 'Hace unos 95 mil años',
             // image: './images/Tepoz_Mioceno_Paleoambiente.png',
-            description: '<p><font size="+0.25">En Eurasia, los humanos ya han desarrollado comercio e inventado joyería. Cerca de Tepoztlán, la erupción del volcán Malacatepec continuó dando forma a la sierra.</font></p> ',
+            description: '<p><font size="+0.25">En Eurasia, los humanos ya habían desarrollado comercio e inventado joyería. Cerca de Tepoztlán, la erupción del volcán Malacatepec, justo al lado del Quepil, continuó dando forma a la sierra.</font></p> ',
             location: {
                 center: { lon: -99.00773, lat: 19.03933 },
 zoom: 10.57,
@@ -429,14 +429,14 @@ bearing: -15.00
             onChapterEnter: [
                 {
                     layer: 'derrame-malacatepec-9y429m',
-                    opacity: 0.95
+                    opacity: 0.8
                 }
                 
             ],
             onChapterExit: [
                 {
                     layer: 'derrame-malacatepec-9y429m',
-                    opacity: 0.75
+                    opacity: 0.65
                 }
                 
             ]
@@ -460,14 +460,14 @@ bearing: -15.00
             onChapterEnter: [
                 {
                     layer: 'derrame-zitlaltepetl-5a1oe7',
-                    opacity: 0.95
+                    opacity: 0.8
                 }
                 
             ],
             onChapterExit: [
                 {
                     layer: 'derrame-zitlaltepetl-5a1oe7',
-                    opacity: 0.75
+                    opacity: 0.65
                 }
                 
             ]
@@ -478,7 +478,7 @@ bearing: -15.00
             hidden: false,
             title: 'Hace unos 17 mil años',
             image: './images/Woolly_mammoth.jpeg',
-            description: '<p><font size="+0.25">Más o menos a la vez que se pintaba la famosa cueva de Lascaux, en Francia, un desafortunado <a href="https://link.springer.com/article/10.1007/s00445-015-0903-5"> mamut lanudo</a> quedó atrapado en un deslave cerca del volcán San Miguel, que hacía poco había hecho erupción.</font></p> <p>En diciembre de 2011, sus restos fueron descubiertos entre las terrazas agrícolas del poblado de Santa Ana Tlacotenco, en Milpa Alta.</font></p><p><font size="-2"> Imagen de <a href="https://commons.wikimedia.org/wiki/File:Woolly_mammoth.jpg"> Flying Puffin</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.en"> CC BY-SA 2.0</a>.</font></p> ',
+            description: '<p><font size="+0.25">Más o menos a la vez que se pintaba la famosa cueva de Lascaux, en Francia, un desafortunado <a href="https://link.springer.com/article/10.1007/s00445-015-0903-5"> mamut lanudo</a> quedó atrapado en un deslave cerca de donde ahora está el poblado de Santa Ana Tlacotenco, en Milpa Alta. Ahí, entre terrazas agrícolas, se encontraron los restos del mamut en diciembre de 2011.</font></p><p><font size="-2"> Imagen de <a href="https://commons.wikimedia.org/wiki/File:Woolly_mammoth.jpg"> Flying Puffin</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.en"> CC BY-SA 2.0</a>.</font></p> ',
             location: {
                 center: { lon: -99.00422, lat: 19.16824 },
 zoom: 13.28,
@@ -491,14 +491,14 @@ bearing: -15.00
             onChapterEnter: [
                 {
                     layer: 'derrame-zitlaltepetl-5a1oe7',
-                    opacity: 0.95
+                    opacity: 0.8
                 }
                 
             ],
             onChapterExit: [
                 {
                     layer: 'derrame-zitlaltepetl-5a1oe7',
-                    opacity: 0.75
+                    opacity: 0.65
                 }
                 
             ]
@@ -509,7 +509,7 @@ bearing: -15.00
             hidden: false,
             title: 'Hace unos 10 mil años',
             // image: './images/Tepoz_Mioceno_Paleoambiente.png',
-            description: '<p><font size="+0.25">La erupción del volcán Pelado pudo haber sido una de las primeras presenciadas por humanos en esta sierra. Para ese entonces nómadas recolectores ya habitaban la región, la última era glacial llegaba a su fin, y muchas especies de megafauna estaban en declive.</font></p> ',
+            description: '<p><font size="+0.25">La erupción del volcán Pelado, junto a lo que ahora es Parres, pudo haber sido una de las primeras presenciadas por humanos en esta sierra. Para ese entonces nómadas recolectores ya habitaban la región, la última era glacial llegaba a su fin, y muchas especies de megafauna estaban en declive.</font></p> ',
             location: {
                 center: { lon: -99.00773, lat: 19.03933 },
 zoom: 10.57,
@@ -522,14 +522,14 @@ bearing: -15.00
             onChapterEnter: [
                 {
                     layer: 'derrame-pelado-cr0ayx',
-                    opacity: 0.95
+                    opacity: 0.8
                 }
                 
             ],
             onChapterExit: [
                 {
                     layer: 'cderrame-pelado-cr0ayx',
-                    opacity: 0.75
+                    opacity: 0.65
                 }
                 
             ]
@@ -553,14 +553,14 @@ bearing: -15.00
             onChapterEnter: [
                 {
                     layer: 'derrame-tecmilco-1w2n43',
-                    opacity: 0.95
+                    opacity: 0.8
                 }
                 
             ],
             onChapterExit: [
                 {
                     layer: 'derrame-tecmilco-1w2n43',
-                    opacity: 0.75
+                    opacity: 0.65
                 }
                 
             ]
@@ -584,14 +584,14 @@ bearing: -15.00
             onChapterEnter: [
                 {
                     layer: 'derrame-tlaloc-5bbhyr',
-                    opacity: 0.95
+                    opacity: 0.8
                 }
                 
             ],
             onChapterExit: [
                 {
                     layer: 'derrame-tlaloc-5bbhyr',
-                    opacity: 0.75
+                    opacity: 0.65
                 }
                 
             ]
@@ -615,14 +615,14 @@ bearing: -15.00
             onChapterEnter: [
                 {
                     layer: 'derrame-suchiooc-0a221l',
-                    opacity: 0.95
+                    opacity: 0.8
                 }
                 
             ],
             onChapterExit: [
                 {
                     layer: 'derrame-suchiooc-0a221l',
-                    opacity: 0.75
+                    opacity: 0.65
                 }
                 
             ]
@@ -646,14 +646,14 @@ bearing: -15.00
             onChapterEnter: [
                 {
                     layer: 'derrame-guespalapa-cz702p',
-                    opacity: 0.95
+                    opacity: 0.8
                 }
                 
             ],
             onChapterExit: [
                 {
                     layer: 'derrame-guespalapa-cz702p',
-                    opacity: 0.75
+                    opacity: 0.65
                 }
                 
             ]
@@ -677,14 +677,14 @@ bearing: -15.00
             onChapterEnter: [
                 {
                     layer: 'derrame-chichinautzin-ae0mvj',
-                    opacity: 0.95
+                    opacity: 0.8
                 }
                 
             ],
             onChapterExit: [
                 {
                     layer: 'derrame-chichinautzin-ae0mvj',
-                    opacity: 0.75
+                    opacity: 0.65
                 }
                 
             ]
@@ -708,14 +708,14 @@ bearing: -15.00
             onChapterEnter: [
                 {
                     layer: 'derrame-chichinautzin-ae0mvj',
-                    opacity: 0.95
+                    opacity: 0.8
                 }
                 
             ],
             onChapterExit: [
                 {
                     layer: 'derrame-chichinautzin-ae0mvj',
-                    opacity: 0.75
+                    opacity: 0.65
                 }
                 
             ]
